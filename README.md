@@ -37,5 +37,5 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://meteora-lfyd.vercel.app/
+https://pokedex-details.vercel.app/
 ```
